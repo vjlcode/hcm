@@ -1,4 +1,4 @@
-function BusinessManagement() {
+function Business() {
   return (
     <div>
       <h2>Gestão de Empresas</h2>
@@ -6,4 +6,4 @@ function BusinessManagement() {
   );
 }
 
-export default BusinessManagement;
+export default Business;

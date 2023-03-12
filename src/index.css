@@ -1,4 +1,10 @@
+:root {
+  --color-light: #F9F9F9;
+  --color-black: #000000;
+}
+
 * {
   margin: 0;
   padding: 0;
+  font-family: "Open Sans", "Helvetica Neue";
 }

@@ -1,4 +1,4 @@
-function PeopleManagement() {
+function People() {
   return (
     <div>
       <h2>Gestão de Pessoas</h2>
@@ -6,4 +6,4 @@ function PeopleManagement() {
   );
 }
 
-export default PeopleManagement;
+export default People;
